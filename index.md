@@ -52,10 +52,10 @@
   - OpenAPI
 
 - データ可視化サイト構築
-  ・python 2.x
-  ・AngularJS
-  ・D3.js
-  ・git(bitbucket)
+  - python 2.x
+  - AngularJS
+  - D3.js
+  - git(bitbucket)
 
 - SD-Network 管理サイト構築
   - TypeScript 1.x, 2.x
@@ -123,8 +123,8 @@
 
 ## 課外活動
 
-ダンスしてます。
-バンドやってました。
-既婚です。
-子供が3人います。
-犬が2匹います。
+ダンスしてます。  
+バンドやってました。  
+既婚です。  
+子供が3人います。  
+犬が2匹います。  
